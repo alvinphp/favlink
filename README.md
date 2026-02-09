@@ -1,6 +1,6 @@
 # Favlink
 
-**Favlink** es un plugin ligero de tipo contenido que permite insertar enlaces en los articulos  con su **favicon automático**, mejorando la presentación visual de los links dentro del contenido.
+**Favlink** es un plugin ligero para joomla de tipo contenido que permite insertar enlaces en los articulos  con su **favicon automático**, mejorando la presentación visual de los links dentro del contenido.
 
 ## ✨ Características
 
